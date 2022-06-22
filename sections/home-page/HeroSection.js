@@ -61,7 +61,7 @@ const HeroSection = (props) => {
             <Grid container mt={2} spacing={1}>
               <Grid item xs={12} md={12}>
                 <Image
-                  src="url('static/images/hero-section.png')"
+                  src='/static/images/hero-section.png'
                   alt="Logo"
                   width={422}
                   height={441}
