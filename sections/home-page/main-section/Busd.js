@@ -35,7 +35,7 @@ const Busd = () => {
               md={6}
             >
               <Image
-                src="/images/busd.png"
+                src="images/busd.png"
                 alt="gold"
                 width={806}
                 height={423}

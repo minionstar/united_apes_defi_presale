@@ -64,9 +64,7 @@ const AutoStaking = () => {
                   textAlign: "left",
                 }}
               >
-                $UAD is a rebase token that rewards holders every 3 seconds with
-                a sustainable 191,021% APY. No need to connect the wallet to a
-                dApp to receive rewards simply buy and hold."
+                $UAD is an all in one token that will reward liquidity providers with a percentage of house winnings from web 3 casino.."
               </Typography>
               <Button
                 sx={{
