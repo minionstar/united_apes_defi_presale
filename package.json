@@ -43,5 +43,10 @@
   "devDependencies": {
     "eslint": "8.15.0",
     "eslint-config-next": "12.1.6"
+  },
+  "pnpm": {
+    "overrides": {
+      "ethereumjs-abi": "https://registry.npmjs.org/ethereumjs-abi/-/ethereumjs-abi-0.6.8.tgz"
+    }
   }
 }
