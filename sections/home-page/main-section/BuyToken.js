@@ -24,45 +24,6 @@ const BuyToken = () => {
             flexDirection: "column",
           }}
         >
-          {" "}
-          <Typography
-            variant="h3"
-            gutterBottom
-            component="div"
-            sx={{ fontFamily: "Bangers", color: "#FF7F7F" }}
-          >
-            Buy cryptocurrencies, trusted by United Apes Defi users.
-          </Typography>
-          <Typography
-            variant="h5"
-            gutterBottom
-            component="div"
-            sx={{
-              fontFamily: "Bangers",
-              color: "#FF7F7F",
-              lineHeight: "45px",
-              textAlign: "center",
-            }}
-          >
-            $UAD is a deflationary token. $UAD is all-in-one platform that works
-            on Binance smart (BNB) network providing many facilities under an
-            umbrella. Swapping allows converting its token into the desired one.
-          </Typography>
-          {/* <Button
-            sx={{
-              fontFamily: "Bangers",
-              backgroundcolor: "#FF7F7F",
-              fontSize: { xs: "15px", md: "24px" },
-              lineHeight: "25.54px",
-              width: { xs: "80%", sm: "80%", md: "80%", lg: "30%" },
-            }}
-            color="error"
-            variant="contained"
-            target="_blank"
-            onClick={handleModalShowHide}
-          >
-            BUY TOKEN
-          </Button> */}
           <ConnectModal open={open} handleModalShowHide={handleModalShowHide} />
         </Box>
       </Container>
