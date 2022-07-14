@@ -4,7 +4,7 @@ const nextConfig = {
   exportPathMap: () => ({}),
   images: {
     loader: 'imgix',
-    path: 'unitedappesdefi.netlify.app/',
+    path: 'https://unitedappesdefi.netlify.app/',
   },
 };
 
