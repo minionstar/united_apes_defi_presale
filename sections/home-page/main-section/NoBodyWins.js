@@ -45,7 +45,7 @@ const NoBodyWins = ({}) => {
             <Typography
               sx={{
                 fontFamily: "Bangers",
-                color: "#FF7F7F",
+                color: "#f27474",
                 fontSize: { xs: "17px", md: "1.5rem" },
                 textAlign: "center",
                 mb: 3,
@@ -57,7 +57,7 @@ const NoBodyWins = ({}) => {
           <Typography
             sx={{
               fontFamily: "Bangers",
-              color: "#FF7F7F",
+              color: "#f27474",
               lineHeight: "45px",
               fontSize: { xs: "17px", md: "1.5rem" },
               mb: 3,
@@ -70,7 +70,7 @@ const NoBodyWins = ({}) => {
           <Typography
             sx={{
               fontFamily: "Bangers",
-              color: "#FF7F7F",
+              color: "#f27474",
               lineHeight: "45px",
               fontSize: { xs: "17px", md: "1.5rem" },
               mb: 3,
@@ -82,7 +82,7 @@ const NoBodyWins = ({}) => {
           <Typography
             sx={{
               fontFamily: "Bangers",
-              color: "#FF7F7F",
+              color: "#f27474",
               lineHeight: "45px",
               fontSize: { xs: "17px", md: "1.5rem" },
               mb: 3,
@@ -94,7 +94,7 @@ const NoBodyWins = ({}) => {
           <Typography
             sx={{
               fontFamily: "Bangers",
-              color: "#FF7F7F",
+              color: "#f27474",
               lineHeight: "45px",
               fontSize: { xs: "17px", md: "1.5rem" },
               mb: 3,
@@ -110,7 +110,7 @@ const NoBodyWins = ({}) => {
             data-aos-duration="500"
             sx={{
               fontFamily: "Bangers",
-              backgroundcolor: "#FF7F7F",
+              backgroundColor: "#FF0000",
               fontSize: "21px",
               lineHeight: "25.54px",
               padding: "10px",

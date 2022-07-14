@@ -48,7 +48,7 @@ const AutoStaking = () => {
                   variant="h3"
                   gutterBottom
                   component="div"
-                  sx={{ fontFamily: "Bangers", color: "#FF7F7F" }}
+                  sx={{ fontFamily: "Bangers", color: "#f27474" }}
                 >
                   Auto Staking
                 </Typography>
@@ -59,17 +59,19 @@ const AutoStaking = () => {
                 component="div"
                 sx={{
                   fontFamily: "Bangers",
-                  color: "#FF7F7F",
+                  color: "#f27474",
                   lineHeight: "45px",
                   textAlign: "left",
                 }}
               >
-                $UAD is an all in one token that will reward liquidity providers with a percentage of house winnings from web 3 casino.."
+                $UAD is a rebase token that rewards holders every 3 seconds with
+                a sustainable 191,021% APY. No need to connect the wallet to a
+                dApp to receive rewards simply buy and hold."
               </Typography>
               <Button
                 sx={{
                   fontFamily: "Bangers",
-                  backgroundcolor: "#FF7F7F",
+                  backgroundColor: "#FF0000",
                   fontSize: { xs: "15px", md: "24px" },
                   lineHeight: "25.54px",
                   width: { xs: "80%", sm: "80%", md: "80%", lg: "30%" },
@@ -99,7 +101,7 @@ const AutoStaking = () => {
                 data-aos-duration="500"
                 sx={{
                   fontFamily: "Bangers",
-                  color: "#FF7F7F",
+                  color: "#f27474",
                   fontSize: { xs: "50px", md: "53px" },
                 }}
               >
@@ -121,7 +123,7 @@ const AutoStaking = () => {
               data-aos-duration="500"
               sx={{
                 fontFamily: "Bangers",
-                color: "#FF7F7F",
+                color: "#f27474",
                 lineHeight: "30px",
                 textAlign: "center",
                 fontWeight: 400,
@@ -138,7 +140,7 @@ const AutoStaking = () => {
               data-aos-duration="500"
               sx={{
                 fontFamily: "Bangers",
-                backgroundcolor: "#FF7F7F",
+                backgroundColor: "#FF0000",
                 fontSize: "21px",
                 lineHeight: "25.54px",
                 padding: "10px",

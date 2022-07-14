@@ -61,7 +61,7 @@ const Busd = () => {
                     variant="h3"
                     gutterBottom
                     component="div"
-                    sx={{ fontFamily: "Bangers", color: "#FF7F7F" }}
+                    sx={{ fontFamily: "Bangers", color: "#f27474" }}
                   >
                     BUSD reflections
                   </Typography>
@@ -72,20 +72,16 @@ const Busd = () => {
                   component="div"
                   sx={{
                     fontFamily: "Bangers",
-                    color: "#FF7F7F",
+                    color: "#f27474",
                     lineHeight: "45px",
                   }}
                 >
-                  $UAD is a reflection coin that rewards holders with BUSD
-                  reflections from taxes on every buy/sell. Every time there is
-                  a buy 2% is reflected back to holders on every sell 4% is
-                  reflected back to holders in the form of the stable coin
-                  Binance USD (BUSD)
+                  On every buy 2% is reflected back to all holders, on every sell 4% is reflected back to all holders in the form of the stable coin BUSD
                 </Typography>
                 <Button
                   sx={{
                     fontFamily: "Bangers",
-                    backgroundcolor: "#FF7F7F",
+                    backgroundColor: "#FF0000",
                     fontSize: { xs: "15px", md: "24px" },
                     lineHeight: "25.54px",
                     width: { xs: "80%", sm: "80%", md: "80%", lg: "30%" },
@@ -131,7 +127,7 @@ const Busd = () => {
                 data-aos="fade-up"
                 data-aos-delay={200}
                 data-aos-duration="500"
-                sx={{ fontFamily: "Bangers", color: "#FF7F7F", fontSize: "50px" }}
+                sx={{ fontFamily: "Bangers", color: "#f27474", fontSize: "50px" }}
               >
                 BUSD reflections
               </Typography>
@@ -148,7 +144,7 @@ const Busd = () => {
             <Typography
               sx={{
                 fontFamily: "Bangers",
-                color: "#FF7F7F",
+                color: "#f27474",
                 lineHeight: "45px",
                 textAlign: "center",
                 fontSize: "17px",
@@ -168,7 +164,7 @@ const Busd = () => {
               data-aos-duration="500"
               sx={{
                 fontFamily: "Bangers",
-                backgroundcolor: "#FF7F7F",
+                backgroundColor: "#FF0000",
                 fontSize: "21px",
                 lineHeight: "25.54px",
                 padding: "10px",

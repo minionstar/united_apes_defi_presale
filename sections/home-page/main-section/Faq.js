@@ -62,7 +62,7 @@ const Faq = () => {
               <Typography
                 sx={{
                   fontFamily: "Bangers",
-                  color: "#FF7F7F",
+                  color: "#f27474",
                   fontSize: "40px",
                   fontWeight: 700,
                 }}
@@ -73,7 +73,7 @@ const Faq = () => {
               <Typography
                 sx={{
                   fontFamily: "Bangers",
-                  color: "#FF7F7F",
+                  color: "#FF0000",
                   fontSize: "40px",
                   fontWeight: 700,
                 }}

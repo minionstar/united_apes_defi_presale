@@ -73,7 +73,7 @@ const Header = ({}) => {
                   <Typography
                     sx={{
                       fontFamily: "Bangers",
-                      color: "#FF7F7F",
+                      color: "#FF0000",
                       fontSize: "30px",
                     }}
                   >
@@ -94,7 +94,7 @@ const Header = ({}) => {
                   <Typography
                     sx={{
                       fontFamily: "Bangers",
-                      color: "#FF7F7F",
+                      color: "#FF0000",
                       fontSize: "30px",
                     }}
                   >
@@ -124,7 +124,7 @@ const Header = ({}) => {
               aria-controls="menu-appbar"
               aria-haspopup="true"
               onClick={toggleDrawer("right", true)}
-              sx={{ color: "#FF7F7F", width: "100%" }}
+              sx={{ color: "#FF0000", width: "100%" }}
             >
               <MenuIcon sx={{ fontSize: 80 }} />
             </IconButton>
@@ -162,7 +162,7 @@ const Header = ({}) => {
                           ? {
                               fontFamily: "Bangers",
                               my: 2,
-                              color: "#FF7F7F",
+                              color: "#f27474",
                               display: "block",
                               fontSize: { xs: "15px", md: "33px" },
                               padding: "-5px",
@@ -171,7 +171,7 @@ const Header = ({}) => {
                           : {
                               fontFamily: "Bangers",
                               my: 2,
-                              color: "#FF7F7F",
+                              color: "#f27474",
                               display: "block",
                               fontSize: { xs: "15px", md: "33px" },
                             }
@@ -196,7 +196,7 @@ const Header = ({}) => {
                           ? {
                               fontFamily: "Bangers",
                               my: 2,
-                              color: "#FF7F7F",
+                              color: "#f27474",
                               display: "block",
                               fontSize: { xs: "15px", md: "33px" },
                               padding: "-5px",
@@ -205,7 +205,7 @@ const Header = ({}) => {
                           : {
                               fontFamily: "Bangers",
                               my: 2,
-                              color: "#FF7F7F",
+                              color: "#f27474",
                               display: "block",
                               fontSize: { xs: "15px", md: "33px" },
                             }

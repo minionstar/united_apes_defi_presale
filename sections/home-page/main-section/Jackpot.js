@@ -41,7 +41,7 @@ const Jackpot = () => {
                   component="div"
                   sx={{
                     fontFamily: "Bangers",
-                    color: "#FF7F7F",
+                    color: "#f27474",
                   }}
                 >
                   The Jackpot
@@ -51,16 +51,7 @@ const Jackpot = () => {
                 variant="h5"
                 gutterBottom
                 component="div"
-                sx={{ fontFamily: "Bangers", color: "#FF7F7F" }}
-              >
-                We decided 2 sources of income wasn't enough so we added a 3rd,
-                the $UAD Jackpot.
-              </Typography>
-              <Typography
-                variant="h5"
-                gutterBottom
-                component="div"
-                sx={{ fontFamily: "Bangers", color: "#FF7F7F" }}
+                sx={{ fontFamily: "Bangers", color: "#f27474" }}
               >
                 How to win:
               </Typography>
@@ -68,7 +59,7 @@ const Jackpot = () => {
                 variant="h5"
                 gutterBottom
                 component="div"
-                sx={{ fontFamily: "Bangers", color: "#FF7F7F" }}
+                sx={{ fontFamily: "Bangers", color: "#f27474" }}
               >
                 - On every buy 4% tax is allocated to Jackpot.
               </Typography>
@@ -76,7 +67,7 @@ const Jackpot = () => {
                 variant="h5"
                 gutterBottom
                 component="div"
-                sx={{ fontFamily: "Bangers", color: "#FF7F7F" }}
+                sx={{ fontFamily: "Bangers", color: "#f27474" }}
               >
                 - On every sell 6% is allocated to the Jackpot.
               </Typography>
@@ -84,7 +75,7 @@ const Jackpot = () => {
                 variant="h5"
                 gutterBottom
                 component="div"
-                sx={{ fontFamily: "Bangers", color: "#FF7F7F" }}
+                sx={{ fontFamily: "Bangers", color: "#f27474" }}
               >
                 - If there is no buy over 0.1 BNB in the last 10 minutes the
                 last person who bought in with over 0.1 BNB will win the
@@ -94,7 +85,7 @@ const Jackpot = () => {
                 variant="h5"
                 gutterBottom
                 component="div"
-                sx={{ fontFamily: "Bangers", color: "#FF7F7F" }}
+                sx={{ fontFamily: "Bangers", color: "#f27474" }}
               >
                 - 10% of all winnings will automatically be sent to the burn
                 address.
@@ -127,7 +118,7 @@ const Jackpot = () => {
               data-aos="fade-up"
               data-aos-delay={200}
               data-aos-duration="500"
-              sx={{ fontFamily: "Bangers", color: "#FF7F7F", fontSize: "50px" }}
+              sx={{ fontFamily: "Bangers", color: "#f27474", fontSize: "50px" }}
             >
               The Jackpot
             </Typography>
@@ -147,7 +138,7 @@ const Jackpot = () => {
             data-aos-duration="500"
             sx={{
               fontFamily: "Bangers",
-              color: "#FF7F7F",
+              color: "#f27474",
               textAlign: "center",
               fontSize: "17px",
               lineHeight: "30px",
@@ -162,7 +153,7 @@ const Jackpot = () => {
             data-aos-duration="500"
             sx={{
               fontFamily: "Bangers",
-              color: "#FF7F7F",
+              color: "#f27474",
               textAlign: "center",
               fontSize: "17px",
               lineHeight: "30px",
@@ -176,7 +167,7 @@ const Jackpot = () => {
             data-aos-duration="500"
             sx={{
               fontFamily: "Bangers",
-              color: "#FF7F7F",
+              color: "#f27474",
               textAlign: "center",
               fontSize: "17px",
               lineHeight: "30px",
@@ -190,7 +181,7 @@ const Jackpot = () => {
             data-aos-duration="500"
             sx={{
               fontFamily: "Bangers",
-              color: "#FF7F7F",
+              color: "#f27474",
               textAlign: "center",
               fontSize: "17px",
               lineHeight: "30px",
@@ -204,7 +195,7 @@ const Jackpot = () => {
             data-aos-duration="500"
             sx={{
               fontFamily: "Bangers",
-              color: "#FF7F7F",
+              color: "#f27474",
               textAlign: "center",
               fontSize: "17px",
               lineHeight: "30px",
@@ -219,7 +210,7 @@ const Jackpot = () => {
             data-aos-duration="500"
             sx={{
               fontFamily: "Bangers",
-              color: "#FF7F7F",
+              color: "#f27474",
               textAlign: "center",
               fontSize: "17px",
               lineHeight: "30px",

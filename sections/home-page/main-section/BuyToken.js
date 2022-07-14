@@ -26,22 +26,30 @@ const BuyToken = () => {
         >
           {" "}
           <Typography
+            variant="h3"
+            gutterBottom
+            component="div"
+            sx={{ fontFamily: "Bangers", color: "#f27474" }}
+          >
+            Buy cryptocurrencies, trusted by United Apes Defi users.
+          </Typography>
+          <Typography
             variant="h5"
             gutterBottom
             component="div"
             sx={{
               fontFamily: "Bangers",
-              color: "#FF7F7F",
+              color: "#f27474",
               lineHeight: "45px",
               textAlign: "center",
             }}
           >
-            $UAD is an all in one token that will reward liquidity providers with a percentage of house winnings from our web 3 casino.
+            Join our Discord for instructions on how to participate  in our whitelist private sale..
           </Typography>
           {/* <Button
             sx={{
               fontFamily: "Bangers",
-              backgroundcolor: "#FF7F7F",
+              backgroundColor: "#FF0000",
               fontSize: { xs: "15px", md: "24px" },
               lineHeight: "25.54px",
               width: { xs: "80%", sm: "80%", md: "80%", lg: "30%" },

@@ -33,7 +33,7 @@ const Footer = () => {
             data-aos-duration="500"
             sx={{
               fontFamily: "Bangers",
-              color: "#FF7F7F",
+              color: "#f27474",
               lineHeight: "45px",
               textAlign: "center",
               width: { xs: "100%", md: "50%" },
@@ -53,7 +53,7 @@ const Footer = () => {
                 href="https://www.facebook.com/unitedapesdefi?_rdc=1&_rdr"
                 target="_blank"
               >
-                <FacebookIcon sx={{ color: "#FF7F7F" }} />{" "}
+                <FacebookIcon sx={{ color: "#f27474" }} />{" "}
               </a>
             </Box>
             <Box
@@ -62,7 +62,7 @@ const Footer = () => {
               data-aos-duration="500"
             >
               <a href="https://instagram.com/unitedapesdefi" target="_blank">
-                <InstagramIcon sx={{ color: "#FF7F7F" }} />
+                <InstagramIcon sx={{ color: "#f27474" }} />
               </a>
             </Box>
             <Box
@@ -71,7 +71,7 @@ const Footer = () => {
               data-aos-duration="500"
             >
               <a href="https://twitter.com/unitedapesdefi" target="_blank">
-                <TwitterIcon sx={{ color: "#FF7F7F" }} />
+                <TwitterIcon sx={{ color: "#f27474" }} />
               </a>
             </Box>
             <Box
@@ -81,7 +81,7 @@ const Footer = () => {
               sx={{ pt: 0.5 }}
             >
               <a href="https://discord.com/invite/3u5dtQ83" target="_blank">
-                <FontAwesomeIcon style={{ color: "#FF7F7F" }} icon={faDiscord} />
+                <FontAwesomeIcon style={{ color: "#f27474" }} icon={faDiscord} />
               </a>
             </Box>
           </Stack>
@@ -91,7 +91,7 @@ const Footer = () => {
             data-aos-duration="500"
             sx={{
               fontFamily: "Bangers",
-              color: "#FF7F7F",
+              color: "#f27474",
               lineHeight: "45px",
               textAlign: "center",
               width: { xs: "80%", md: "50%" },

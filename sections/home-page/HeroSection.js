@@ -8,7 +8,7 @@ import { createTheme, ThemeProvider } from "@mui/material/styles";
 import { makeStyles } from "@mui/styles";
 const useStyles = makeStyles({
   input: {
-    color: "#FF7F7F",
+    color: "#f27474",
   },
 });
 const HeroSection = (props) => {
@@ -46,7 +46,7 @@ const HeroSection = (props) => {
           width: "100%",
           backgroundSize: "cover",
           backgroundPosition: "bottom",
-          position: "relative",
+          position: "relative"
         }}
       >
         <Container sx={{ paddingTop: 18, zIndex: 3 }} fixed>
@@ -97,7 +97,7 @@ const HeroSection = (props) => {
                     <Typography
                       sx={{
                         fontFamily: "Bangers",
-                        color: "#FF7F7F",
+                        color: "#f27474",
                         lineHeight: "52px",
                         fontSize: {
                           xs: "46px",
@@ -108,7 +108,7 @@ const HeroSection = (props) => {
                       }}
                     >
                       UAD is bringing the online gaming and casino industry to
-                      DeFi
+                      defi
                     </Typography>
                   </ThemeProvider>
                 </Box>
