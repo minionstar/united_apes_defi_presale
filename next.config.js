@@ -4,7 +4,7 @@ const nextConfig = {
   exportPathMap: () => ({}),
   images: {
     loader: 'imgix',
-    path: 'https://brilliant-genie-15d42c.netlify.app/',
+    path: 'unitedappesdefi.netlify.app/',
   },
 };
 
