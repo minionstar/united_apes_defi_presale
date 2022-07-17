@@ -223,7 +223,4 @@ const Header = ({}) => {
     </AppBar>
   );
 };
-Header.propTypes = {
-  classes: PropTypes.object.isRequired,
-};
 export default Header;

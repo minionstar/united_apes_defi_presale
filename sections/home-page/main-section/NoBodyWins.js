@@ -109,9 +109,10 @@ const NoBodyWins = ({}) => {
             data-aos-delay={200}
             data-aos-duration="500"
             sx={{
+              color: "#f27474",
               fontFamily: "Bangers",
               backgroundColor: "#FF0000",
-              fontSize: "21px",
+              fontSize: { xs:"21px", md:"24px"},
               lineHeight: "25.54px",
               padding: "10px",
               width: { xs: "50%", md: "30%" },

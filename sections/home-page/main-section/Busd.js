@@ -80,6 +80,7 @@ const Busd = () => {
                 </Typography>
                 <Button
                   sx={{
+                    color: "#f27474",
                     fontFamily: "Bangers",
                     backgroundColor: "#FF0000",
                     fontSize: { xs: "15px", md: "24px" },
@@ -163,6 +164,7 @@ const Busd = () => {
               data-aos-delay={200}
               data-aos-duration="500"
               sx={{
+                color: "#f27474",
                 fontFamily: "Bangers",
                 backgroundColor: "#FF0000",
                 fontSize: "21px",

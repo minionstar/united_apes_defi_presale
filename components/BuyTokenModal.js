@@ -194,6 +194,7 @@ function BuyTokenModal(props) {
               {!active ? (
                 <Button
                   sx={{
+                    color: "#f27474",
                     fontFamily: "Bangers",
                     backgroundColor: "#FF0000",
                     fontSize: { xs: "15px", md: "24px" },
@@ -216,6 +217,7 @@ function BuyTokenModal(props) {
               ) : (
                 <Button
                   sx={{
+                    color: "#f27474",
                     fontFamily: "Bangers",
                     backgroundColor: "#FF0000",
                     fontSize: { xs: "15px", md: "24px" },
@@ -232,6 +234,7 @@ function BuyTokenModal(props) {
               )}
               <Button
                 sx={{
+                  color: "#f27474",
                   fontFamily: "Bangers",
                   backgroundColor: "#FF0000",
                   fontSize: { xs: "15px", md: "24px" },
