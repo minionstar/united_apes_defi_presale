@@ -55,7 +55,7 @@ const Lottery = () => {
                     lineHeight: "45px",
                   }}
                 >
-                  - Everyone can participate in our lottery every 12 hours ⏰
+                  - We will hold a lottery every 12 hours ⏰
                 </Typography>
                 <Typography
                   variant="h5"
@@ -182,7 +182,7 @@ const Lottery = () => {
                 fontSize: "17px",
               }}
             >
-              - Everyone can participate in our lottery every 12 hours ⏰
+              - We will hold a lottery every 12 hours ⏰
             </Typography>
             <Typography
               data-aos="fade-up"
