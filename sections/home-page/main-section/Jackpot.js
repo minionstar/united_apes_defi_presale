@@ -41,7 +41,7 @@ const Jackpot = () => {
                   component="div"
                   sx={{
                     fontFamily: "Bangers",
-                    color: "#FF0000",
+                    color: "#ffffff",
                   }}
                 >
                   The Jackpot
@@ -118,7 +118,7 @@ const Jackpot = () => {
               data-aos="fade-up"
               data-aos-delay={200}
               data-aos-duration="500"
-              sx={{ fontFamily: "Bangers", color: "#FF0000", fontSize: "50px" }}
+              sx={{ fontFamily: "Bangers", color: "#ffffff", fontSize: "50px" }}
             >
               The Jackpot
             </Typography>

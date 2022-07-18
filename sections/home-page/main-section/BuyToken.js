@@ -26,14 +26,6 @@ const BuyToken = () => {
         >
           {" "}
           <Typography
-            variant="h3"
-            gutterBottom
-            component="div"
-            sx={{ fontFamily: "Bangers", color: "#FF0000" }}
-          >
-            Buy cryptocurrencies, trusted by United Apes Defi users.
-          </Typography>
-          <Typography
             variant="h5"
             gutterBottom
             component="div"

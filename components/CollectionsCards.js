@@ -17,34 +17,34 @@ const CollectionsCards = ({ data }) => {
           image={image}
           alt="green iguana"
         />
-        <CardContent sx={{ pt: 1, pl: 0, pr: 0 }}></CardContent>
-        <Button
-          variant="text"
-          sx={{
-            width: "50%",
-            fontFamily: "Bangers",
-            color: "#ffffff",
-            position: "relative",
-            pb: 2,
-          }}
-          href="https://klaydoe-uad.gitbook.io/united-apes-defi/united-apes-nfts"
-          target="_blank"
-        >
-          <Typography
+        <CardContent sx={{ pt: 1, pl: 0, pr: 0, color:"#ffffff" }}>
+          <Button
+            variant="text"
             sx={{
-              fontSize: "20px",
-              lineHeight: "30px",
               fontFamily: "Bangers",
-              whiteSpace: "nowrap",
-              borderBottom: "2px solid #ff0000",
-              position: "absolute",
-              left: 0,
+              color: "#ffffff",
+              position: "relative",
+              pb: 2,
             }}
+            href="https://klaydoe-uad.gitbook.io/united-apes-defi/united-apes-nfts"
+            target="_blank"
           >
-            Learn More
-          </Typography>
-          <ArrowForwardIcon sx={{ position: "absolute", right: 0 }} />
-        </Button>
+            <Typography
+              sx={{
+                fontSize: "20px",
+                lineHeight: "30px",
+                fontFamily: "Bangers",
+                whiteSpace: "nowrap",
+                borderBottom: "2px solid #ff0000",
+                position: "absolute",
+                left: 0,
+              }}
+            >
+              Learn More
+            </Typography>
+          </Button>
+          <ArrowForwardIcon sx={{ marginLeft:"30px;"}} />
+        </CardContent>
       </Card>
     </div>
   );

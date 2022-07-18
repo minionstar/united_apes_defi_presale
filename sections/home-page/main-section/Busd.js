@@ -61,7 +61,7 @@ const Busd = () => {
                     variant="h3"
                     gutterBottom
                     component="div"
-                    sx={{ fontFamily: "Bangers", color: "#FF0000" }}
+                    sx={{ fontFamily: "Bangers", color: "#ffffff" }}
                   >
                     BUSD reflections
                   </Typography>
@@ -128,7 +128,7 @@ const Busd = () => {
                 data-aos="fade-up"
                 data-aos-delay={200}
                 data-aos-duration="500"
-                sx={{ fontFamily: "Bangers", color: "#FF0000", fontSize: "50px" }}
+                sx={{ fontFamily: "Bangers", color: "#ffffff", fontSize: "50px" }}
               >
                 BUSD reflections
               </Typography>
