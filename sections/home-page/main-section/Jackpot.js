@@ -144,21 +144,6 @@ const Jackpot = () => {
               lineHeight: "30px",
             }}
           >
-            We decided 2 sources of income wasn't enough so we added a 3rd, the
-            $UAD Jackpot.
-          </Typography>
-          <Typography
-            data-aos="fade-up"
-            data-aos-delay={200}
-            data-aos-duration="500"
-            sx={{
-              fontFamily: "Bangers",
-              color: "#f27474",
-              textAlign: "center",
-              fontSize: "17px",
-              lineHeight: "30px",
-            }}
-          >
             How to win:
           </Typography>
           <Typography
