@@ -31,10 +31,10 @@ const Questions = ({ data, index, clickedQuestion, questionId }) => {
           <Typography
             sx={
               questionId === index
-                ? { fontFamily: "Poppins", color: "#f27474", fontSize: "25px", fontWeight:700 }
+                ? { fontFamily: "Poppins", color: "#FF0000", fontSize: "25px", fontWeight:700 }
                 : {
                     fontFamily: "Poppins",
-                    color: "#f27474",
+                    color: "#FF0000",
                     fontWeight: 400,
                     fontSize: "25px",
                   }
@@ -44,7 +44,7 @@ const Questions = ({ data, index, clickedQuestion, questionId }) => {
           </Typography>
         </AccordionSummary>
         <AccordionDetails>
-          <Typography sx={{ fontFamily: "Poppins", color: "#f27474" }}>
+          <Typography sx={{ fontFamily: "Poppins", color: "#FF0000" }}>
             {answer}
           </Typography>
         </AccordionDetails>

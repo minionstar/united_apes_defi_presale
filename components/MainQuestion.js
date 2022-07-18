@@ -10,20 +10,20 @@ const MainQuestion = ({}) => {
         sx={{ backgroundColor: "#000", borderRadius: "0px!important" }}
       >
         <AccordionSummary
-          expandIcon={<ArrowForwardIosIcon sx={{ color: "#f27474" }} />}
+          expandIcon={<ArrowForwardIosIcon sx={{ color: "#FF0000" }} />}
           aria-controls="panel1a-content"
           id="panel1a-header"
         >
           <Box sx={{ display: "flex", flexDirection: "column" }}>
             <Typography
-              sx={{ fontFamily: "Bangers", color: "#f27474" }}
+              sx={{ fontFamily: "Bangers", color: "#FF0000" }}
               variant="h5"
               gutterBottom
               component="div"
             >
               {"Turpis urna, vivamus adipiscing gravida erat?"}
             </Typography>
-            <Typography sx={{ fontFamily: "Poppins", color: "#f27474" }}>
+            <Typography sx={{ fontFamily: "Poppins", color: "#FF0000" }}>
               {
                 "Blockchain will reshape Your industry and the whole economy. Be prepared. Here a collection of our FAQs."
               }

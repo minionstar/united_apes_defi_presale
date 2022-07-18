@@ -23,7 +23,7 @@ const CollectionsCards = ({ data }) => {
           sx={{
             width: "50%",
             fontFamily: "Bangers",
-            color: "#f27474",
+            color: "#ffffff",
             position: "relative",
             pb: 2,
           }}
@@ -36,7 +36,7 @@ const CollectionsCards = ({ data }) => {
               lineHeight: "30px",
               fontFamily: "Bangers",
               whiteSpace: "nowrap",
-              borderBottom: "2px solid #FF0000",
+              borderBottom: "2px solid #ff0000",
               position: "absolute",
               left: 0,
             }}

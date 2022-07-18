@@ -48,7 +48,7 @@ const AutoStaking = () => {
                   variant="h3"
                   gutterBottom
                   component="div"
-                  sx={{ fontFamily: "Bangers", color: "#f27474" }}
+                  sx={{ fontFamily: "Bangers", color: "#FF0000" }}
                 >
                   Auto Staking
                 </Typography>
@@ -59,18 +59,18 @@ const AutoStaking = () => {
                 component="div"
                 sx={{
                   fontFamily: "Bangers",
-                  color: "#f27474",
+                  color: "#FF0000",
                   lineHeight: "45px",
                   textAlign: "left",
                 }}
               >
                 $UAD is a rebase token that rewards holders every 3 seconds with
                 a sustainable 191,021% APY. No need to connect the wallet to a
-                dApp to receive rewards simply buy and hold."
+                dApp to receive rewards simply buy and hold.
               </Typography>
               <Button
                 sx={{
-                  color: "#f27474",
+                  color: "#ffffff",
                   fontFamily: "Bangers",
                   backgroundColor: "#FF0000",
                   fontSize: { xs: "15px", md: "24px" },
@@ -102,7 +102,7 @@ const AutoStaking = () => {
                 data-aos-duration="500"
                 sx={{
                   fontFamily: "Bangers",
-                  color: "#f27474",
+                  color: "#FF0000",
                   fontSize: { xs: "50px", md: "53px" },
                 }}
               >
@@ -124,7 +124,7 @@ const AutoStaking = () => {
               data-aos-duration="500"
               sx={{
                 fontFamily: "Bangers",
-                color: "#f27474",
+                color: "#FF0000",
                 lineHeight: "30px",
                 textAlign: "center",
                 fontWeight: 400,
@@ -133,14 +133,14 @@ const AutoStaking = () => {
             >
               $UAD is a rebase token that rewards holders every 3 seconds with a
               sustainable 191,021% APY. No need to connect the wallet to a dApp
-              to receive rewards simply buy and hold."
+              to receive rewards simply buy and hold.
             </Typography>
             <Button
               data-aos="fade-up"
               data-aos-delay={200}
               data-aos-duration="500"
               sx={{
-                color: "#f27474",
+                color: "#ffffff",
                 fontFamily: "Bangers",
                 backgroundColor: "#FF0000",
                 fontSize: "21px",

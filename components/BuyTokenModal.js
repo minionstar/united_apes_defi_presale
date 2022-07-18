@@ -151,7 +151,7 @@ function BuyTokenModal(props) {
               variant="h3"
               gutterBottom
               component="div"
-              sx={{ fontFamily: "Bangers", color: "#f27474" }}
+              sx={{ fontFamily: "Bangers", color: "#FF0000" }}
             >
               Buy Token
             </Typography>
@@ -159,7 +159,7 @@ function BuyTokenModal(props) {
               variant="h3"
               gutterBottom
               component="div"
-              sx={{ fontFamily: "Bangers", color: "#f27474" }}
+              sx={{ fontFamily: "Bangers", color: "#FF0000" }}
               onClick={() => {
                 setIsApproveDone(false);
                 props.handleModalShowHide(false);
@@ -188,13 +188,13 @@ function BuyTokenModal(props) {
                   flex: 1,
                 }}
               ></input>
-              <div style={{ color: "#f27474", marginLeft: "10px" }}>BUSD</div>
+              <div style={{ color: "#FF0000", marginLeft: "10px" }}>BUSD</div>
             </Box>
             <Box style={{ display: "flex", justifyContent: "space-between" }}>
               {!active ? (
                 <Button
                   sx={{
-                    color: "#f27474",
+                    color: "#ffffff",
                     fontFamily: "Bangers",
                     backgroundColor: "#FF0000",
                     fontSize: { xs: "15px", md: "24px" },
@@ -217,7 +217,7 @@ function BuyTokenModal(props) {
               ) : (
                 <Button
                   sx={{
-                    color: "#f27474",
+                    color: "#ffffff",
                     fontFamily: "Bangers",
                     backgroundColor: "#FF0000",
                     fontSize: { xs: "15px", md: "24px" },
@@ -234,7 +234,7 @@ function BuyTokenModal(props) {
               )}
               <Button
                 sx={{
-                  color: "#f27474",
+                  color: "#ffffff",
                   fontFamily: "Bangers",
                   backgroundColor: "#FF0000",
                   fontSize: { xs: "15px", md: "24px" },
