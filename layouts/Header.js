@@ -162,7 +162,7 @@ const Header = ({}) => {
                           ? {
                               fontFamily: "Bangers",
                               my: 2,
-                              color: "#ff0000",
+                              color: "#f27474",
                               display: "block",
                               fontSize: { xs: "15px", md: "33px" },
                               padding: "-5px",
@@ -171,7 +171,7 @@ const Header = ({}) => {
                           : {
                               fontFamily: "Bangers",
                               my: 2,
-                              color: "#ff0000",
+                              color: "#f27474",
                               display: "block",
                               fontSize: { xs: "15px", md: "33px" },
                             }
@@ -196,7 +196,7 @@ const Header = ({}) => {
                           ? {
                               fontFamily: "Bangers",
                               my: 2,
-                              color: "#ff0000",
+                              color: "#f27474",
                               display: "block",
                               fontSize: { xs: "15px", md: "33px" },
                               padding: "-5px",
@@ -205,7 +205,7 @@ const Header = ({}) => {
                           : {
                               fontFamily: "Bangers",
                               my: 2,
-                              color: "#ff0000",
+                              color: "#f27474",
                               display: "block",
                               fontSize: { xs: "15px", md: "33px" },
                             }

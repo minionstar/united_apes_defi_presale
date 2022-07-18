@@ -23,7 +23,7 @@ const CollectionsCards = ({ data }) => {
           sx={{
             width: "50%",
             fontFamily: "Bangers",
-            color: "#FFFFFF",
+            color: "#f27474",
             position: "relative",
             pb: 2,
           }}

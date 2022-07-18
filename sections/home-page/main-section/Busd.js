@@ -76,13 +76,11 @@ const Busd = () => {
                     lineHeight: "45px",
                   }}
                 >
-                  On every buy 2% is reflected back to all holders, on every
-                  sell 4% is reflected back to all holders in the form of the
-                  stable coin BUSD
+                  On every buy 2% is reflected back to all holders, on every sell 4% is reflected back to all holders in the form of the stable coin BUSD
                 </Typography>
                 <Button
                   sx={{
-                    color: "#FFFFFF",
+                    color: "#f27474",
                     fontFamily: "Bangers",
                     backgroundColor: "#FF0000",
                     fontSize: { xs: "15px", md: "24px" },
@@ -130,11 +128,7 @@ const Busd = () => {
                 data-aos="fade-up"
                 data-aos-delay={200}
                 data-aos-duration="500"
-                sx={{
-                  fontFamily: "Bangers",
-                  color: "#f27474",
-                  fontSize: "50px",
-                }}
+                sx={{ fontFamily: "Bangers", color: "#f27474", fontSize: "50px" }}
               >
                 BUSD reflections
               </Typography>
@@ -160,16 +154,17 @@ const Busd = () => {
               data-aos-delay={200}
               data-aos-duration="500"
             >
-              On every buy 2% is reflected back to all holders, on every sell 4%
-              is reflected back to all holders in the form of the stable coin
-              BUSD
+              $UAD is a reflection coin that rewards holders with BUSD
+              reflections from taxes on every buy/sell. Every time there is a
+              buy 2% is reflected back to holders on every sell 4% is reflected
+              back to holders in the form of the stable coin Binance USD (BUSD)
             </Typography>
             <Button
               data-aos="fade-up"
               data-aos-delay={200}
               data-aos-duration="500"
               sx={{
-                color: "#FFFFFF",
+                color: "#f27474",
                 fontFamily: "Bangers",
                 backgroundColor: "#FF0000",
                 fontSize: "21px",

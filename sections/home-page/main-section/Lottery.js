@@ -67,8 +67,7 @@ const Lottery = () => {
                     lineHeight: "45px",
                   }}
                 >
-                  - NFT holders will have free lifetime entries into the lottery
-                  determined by the level of NFT they hold 🎟
+                  - NFT holders will have free lifetime entries into the lottery determined by the level of NFT they hold 🎟
                 </Typography>
                 <Typography
                   variant="h5"
@@ -97,7 +96,7 @@ const Lottery = () => {
                 </Typography>
                 <Button
                   sx={{
-                    color: "#FFFFFF",
+                    color: "#f27474",
                     fontFamily: "Bangers",
                     backgroundColor: "#FF0000",
                     fontSize: { xs: "15px", md: "24px" },
@@ -153,11 +152,7 @@ const Lottery = () => {
                 data-aos="fade-up"
                 data-aos-delay={200}
                 data-aos-duration="500"
-                sx={{
-                  fontFamily: "Bangers",
-                  color: "#f27474",
-                  fontSize: "50px",
-                }}
+                sx={{ fontFamily: "Bangers", color: "#f27474", fontSize: "50px" }}
               >
                 The Lottery
               </Typography>
@@ -183,7 +178,8 @@ const Lottery = () => {
                 fontSize: "17px",
               }}
             >
-              - Everyone can participate in our lottery every 12 hours ⏰
+              - UAD will hold a lottery every 12 hours and everyone can
+              participate ⏰
             </Typography>
             <Typography
               data-aos="fade-up"
@@ -197,8 +193,8 @@ const Lottery = () => {
                 fontSize: "17px",
               }}
             >
-              - NFT holders will have free lifetime entries into the lottery
-              determined by the level of NFT they hold 🎟
+              - NFT holders will have a fixed amount of free entries into every
+              lottery determined by the level of NFTs they hold 🎟
             </Typography>
             <Typography
               data-aos="fade-up"
@@ -234,7 +230,7 @@ const Lottery = () => {
               data-aos-delay={200}
               data-aos-duration="500"
               sx={{
-                color: "#FFFFFF",
+                color: "#f27474",
                 fontFamily: "Bangers",
                 backgroundColor: "#FF0000",
                 fontSize: "21px",
