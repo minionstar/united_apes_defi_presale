@@ -61,7 +61,7 @@ const Busd = () => {
                     variant="h3"
                     gutterBottom
                     component="div"
-                    sx={{ fontFamily: "Bangers", color: "#ff0000" }}
+                    sx={{ fontFamily: "Bangers", color: "#f27474" }}
                   >
                     BUSD reflections
                   </Typography>
@@ -72,7 +72,7 @@ const Busd = () => {
                   component="div"
                   sx={{
                     fontFamily: "Bangers",
-                    color: "#ff0000",
+                    color: "#f27474",
                     lineHeight: "45px",
                   }}
                 >
@@ -132,7 +132,7 @@ const Busd = () => {
                 data-aos-duration="500"
                 sx={{
                   fontFamily: "Bangers",
-                  color: "#ff0000",
+                  color: "#f27474",
                   fontSize: "50px",
                 }}
               >
@@ -151,7 +151,7 @@ const Busd = () => {
             <Typography
               sx={{
                 fontFamily: "Bangers",
-                color: "#ff0000",
+                color: "#f27474",
                 lineHeight: "45px",
                 textAlign: "center",
                 fontSize: "17px",

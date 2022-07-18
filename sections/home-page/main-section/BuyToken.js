@@ -29,7 +29,7 @@ const BuyToken = () => {
             variant="h3"
             gutterBottom
             component="div"
-            sx={{ fontFamily: "Bangers", color: "#ff0000" }}
+            sx={{ fontFamily: "Bangers", color: "#f27474" }}
           >
             Buy cryptocurrencies, trusted by United Apes Defi users.
           </Typography>
@@ -39,7 +39,7 @@ const BuyToken = () => {
             component="div"
             sx={{
               fontFamily: "Bangers",
-              color: "#ff0000",
+              color: "#f27474",
               lineHeight: "45px",
               textAlign: "center",
             }}

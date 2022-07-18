@@ -112,7 +112,7 @@ const Collections = () => {
                 data-aos-duration="500"
                 sx={{
                   fontFamily: "Bangers",
-                  color: "#ff0000",
+                  color: "#f27474",
                   fontSize: "53px",
                   display: { xs: "none", md: "block" },
                 }}
@@ -125,7 +125,7 @@ const Collections = () => {
                 data-aos-duration="500"
                 sx={{
                   fontFamily: "Bangers",
-                  color: "#ff0000",
+                  color: "#f27474",
                   fontWeight: 400,
                   fontSize: { xs: "50px", md: "53px" },
                   display: { xs: "block", md: "none" },
@@ -141,7 +141,7 @@ const Collections = () => {
                 data-aos-duration="500"
                 sx={{
                   fontFamily: "Bangers",
-                  color: "#ff0000",
+                  color: "#f27474",
                   lineHeight: "30px",
                   fontSize: { xs: "17px", md: "20px" },
                 }}

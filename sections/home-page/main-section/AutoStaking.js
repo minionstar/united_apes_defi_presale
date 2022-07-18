@@ -48,7 +48,7 @@ const AutoStaking = () => {
                   variant="h3"
                   gutterBottom
                   component="div"
-                  sx={{ fontFamily: "Bangers", color: "#ff0000" }}
+                  sx={{ fontFamily: "Bangers", color: "#f27474" }}
                 >
                   Auto Staking
                 </Typography>
@@ -59,7 +59,7 @@ const AutoStaking = () => {
                 component="div"
                 sx={{
                   fontFamily: "Bangers",
-                  color: "#FF0000",
+                  color: "#f27474",
                   lineHeight: "45px",
                   textAlign: "left",
                 }}
