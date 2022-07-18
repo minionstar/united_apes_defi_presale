@@ -8,7 +8,7 @@ import { createTheme, ThemeProvider } from "@mui/material/styles";
 import { makeStyles } from "@mui/styles";
 const useStyles = makeStyles({
   input: {
-    color: "#f27474",
+    color: "#ff0000",
   },
 });
 const HeroSection = (props) => {
@@ -97,7 +97,7 @@ const HeroSection = (props) => {
                     <Typography
                       sx={{
                         fontFamily: "Bangers",
-                        color: "#f27474",
+                        color: "#ff0000",
                         lineHeight: "52px",
                         fontSize: {
                           xs: "46px",
