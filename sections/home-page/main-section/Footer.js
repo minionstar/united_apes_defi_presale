@@ -80,7 +80,7 @@ const Footer = () => {
               data-aos-duration="700"
               sx={{ pt: 0.5 }}
             >
-              <a href="https://discord.com/invite/3u5dtQ83" target="_blank">
+              <a href="https://discord.gg/B8zMNdwCNA" target="_blank">
                 <FontAwesomeIcon style={{ color: "#ffffff" }} icon={faDiscord} />
               </a>
             </Box>

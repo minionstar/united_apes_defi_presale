@@ -31,12 +31,12 @@ const BuyToken = () => {
             component="div"
             sx={{
               fontFamily: "Bangers",
-              color: "#FF0000",
+              color: "#ffffff",
               lineHeight: "45px",
               textAlign: "center",
             }}
           >
-            Join our Discord for instructions on how to participate  in our whitelist private sale..
+            Join our Discord for instructions on how to participate  in our whitelist private sale!
           </Typography>
           {/* <Button
             sx={{
