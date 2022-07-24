@@ -68,6 +68,7 @@ const Header = ({}) => {
               <a
                 href="https://klaydoe-uad.gitbook.io/united-apes-defi/"
                 target="_blank"
+                key={index}
               >
                 <ListItem sx={{ mb: 2, mt: 2 }} button>
                   <Typography
@@ -89,6 +90,7 @@ const Header = ({}) => {
                 onClick={toggleDrawer(anchor, false)}
                 smooth={true}
                 duration={500}
+                key={index}
               >
                 <ListItem sx={{ mb: 2, mt: 2 }} button>
                   <Typography

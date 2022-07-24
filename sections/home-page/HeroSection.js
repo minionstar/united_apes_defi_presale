@@ -131,7 +131,5 @@ const HeroSection = (props) => {
     </>
   );
 };
-HeroSection.propTypes = {
-  classes: PropTypes.object.isRequired,
-};
+
 export default HeroSection;
