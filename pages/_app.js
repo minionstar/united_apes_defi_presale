@@ -22,20 +22,18 @@ function getLibrary(provider) {
 }
 
 function MyApp({ Component, pageProps }) {
-
   useEffect(() => {
     AOS.init();
   }, []);
 
-
   const pageview = () => {
-    window.fbq('track', 'PageView')
-  }
-  
+    window.fbq("track", "PageView");
+  };
+
   // https://developers.facebook.com/docs/facebook-pixel/advanced/
   const event = (name, options = {}) => {
-    window.fbq('track', name, options)
-  }
+    window.fbq("track", name, options);
+  };
   const router = useRouter();
 
   useEffect(() => {

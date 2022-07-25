@@ -63,7 +63,7 @@ const Header = ({}) => {
       </Box>
       <List>
         {pages.map((text, index) => (
-          <>
+          <div key={index}>
             {text === "WHITE PAPER" ? (
               <a
                 href="https://klaydoe-uad.gitbook.io/united-apes-defi/"
@@ -105,7 +105,7 @@ const Header = ({}) => {
                 </ListItem>
               </ScrollLink>
             )}
-          </>
+          </div>
         ))}
       </List>
     </Box>
@@ -150,7 +150,7 @@ const Header = ({}) => {
             }}
           >
             {pages.map((page, i) => (
-              <>
+              <div key={i}>
                 {page === "WHITE PAPER" ? (
                   <a
                     href="https://klaydoe-uad.gitbook.io/united-apes-defi/"
@@ -217,7 +217,7 @@ const Header = ({}) => {
                     </Button>
                   </ScrollLink>
                 )}
-              </>
+              </div>
             ))}
           </Box>
         </Toolbar>
