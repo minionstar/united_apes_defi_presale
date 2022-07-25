@@ -81,7 +81,10 @@ const Footer = () => {
               sx={{ pt: 0.5 }}
             >
               <a href="https://discord.gg/B8zMNdwCNA" target="_blank">
-                <FontAwesomeIcon style={{ color: "#ffffff" }} icon={faDiscord} />
+                <FontAwesomeIcon
+                  style={{ color: "#ffffff" }}
+                  icon={faDiscord}
+                />
               </a>
             </Box>
           </Stack>
@@ -100,6 +103,27 @@ const Footer = () => {
             }}
           >
             copyright © 2022 all rights reserved
+          </Typography>
+
+          <Typography
+            data-aos="fade-up"
+            data-aos-delay={1400}
+            data-aos-duration="500"
+            sx={{
+              fontFamily: "Bangers",
+              color: "#ffffff",
+              lineHeight: "45px",
+              textAlign: "center",
+              width: { xs: "80%", md: "50%" },
+              fontSize: { xs: "15", md: "18px" },
+            }}
+          >
+            <a
+              href="https://www.linkedin.com/in/louis-lee-97ba90235/"
+              target="_blank"
+            >
+              Developed by LouisLee
+            </a>
           </Typography>
         </Box>
       </Container>
