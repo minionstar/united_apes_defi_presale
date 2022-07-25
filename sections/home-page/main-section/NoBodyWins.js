@@ -17,7 +17,7 @@ const NoBodyWins = ({}) => {
   return (
     <Box sx={{ width: "100%", position: "relative", mt: 15 }}>
       <Container fixed>
-        <Box
+        {/* <Box
           item
           xs={12}
           sx={{
@@ -34,7 +34,7 @@ const NoBodyWins = ({}) => {
             width={345}
             height={190}
           />
-        </Box>
+        </Box> */}
         <Box
           data-aos="zoom-in"
           data-aos-delay={200}
@@ -43,12 +43,12 @@ const NoBodyWins = ({}) => {
         >
           <ThemeProvider theme={theme}>
             <Typography
+              variant="h3"
+              gutterBottom
+              component="div"
               sx={{
                 fontFamily: "Bangers",
-                color: "#FF0000",
-                fontSize: { xs: "17px", md: "1.5rem" },
-                textAlign: "center",
-                mb: 3,
+                color: "#ffffff",
               }}
             >
               United Buyback 🌎
@@ -112,7 +112,7 @@ const NoBodyWins = ({}) => {
               color: "#ffffff",
               fontFamily: "Bangers",
               backgroundColor: "#FF0000",
-              fontSize: { xs:"21px", md:"24px"},
+              fontSize: { xs: "21px", md: "24px" },
               lineHeight: "25.54px",
               padding: "10px",
               width: { xs: "50%", md: "30%" },

@@ -121,8 +121,8 @@ const HeroSection = (props) => {
             layout="responsive"
             data-aos="fade-right"
             data-aos-delay={800}
-            src="/images/Gorilla.png"
-            alt="gorilla"
+            src="/images/BlackGorilla.png"
+            alt="GROILLA"
             width={315}
             height={437}
           />
