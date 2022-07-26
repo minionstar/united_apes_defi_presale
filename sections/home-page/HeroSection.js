@@ -46,7 +46,7 @@ const HeroSection = (props) => {
           width: "100%",
           backgroundSize: "cover",
           backgroundPosition: "bottom",
-          position: "relative"
+          position: "relative",
         }}
       >
         <Container sx={{ paddingTop: 18, zIndex: 3 }} fixed>
@@ -97,7 +97,7 @@ const HeroSection = (props) => {
                     <Typography
                       sx={{
                         fontFamily: "Bangers",
-                        color: "#FF0000",
+                        color: "#ffffff",
                         lineHeight: "52px",
                         fontSize: {
                           xs: "46px",

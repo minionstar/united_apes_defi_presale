@@ -5,7 +5,6 @@ import NoBodyWins from "./main-section/NoBodyWins";
 import Busd from "./main-section/Busd";
 import Lottery from "./main-section/Lottery";
 import Collections from "./main-section/Collections";
-import Faq from "./main-section/Faq";
 import Footer from "./main-section/Footer";
 import BuyToken from "./main-section/BuyToken";
 const MainSection = () => {

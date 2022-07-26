@@ -59,7 +59,7 @@ const AutoStaking = () => {
                 component="div"
                 sx={{
                   fontFamily: "Bangers",
-                  color: "#FF0000",
+                  color: "#ffffff",
                   lineHeight: "45px",
                   textAlign: "left",
                 }}
@@ -124,7 +124,7 @@ const AutoStaking = () => {
               data-aos-duration="500"
               sx={{
                 fontFamily: "Bangers",
-                color: "#FF0000",
+                color: "#ffffff",
                 lineHeight: "30px",
                 textAlign: "center",
                 fontWeight: 400,

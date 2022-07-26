@@ -36,23 +36,9 @@ const BuyToken = () => {
               textAlign: "center",
             }}
           >
-            Join our Discord for instructions on how to participate  in our whitelist private sale!
+            Join our Discord for instructions on how to participate in our
+            whitelist private sale!
           </Typography>
-          {/* <Button
-            sx={{
-              fontFamily: "Bangers",
-              backgroundColor: "#FF0000",
-              fontSize: { xs: "15px", md: "24px" },
-              lineHeight: "25.54px",
-              width: { xs: "80%", sm: "80%", md: "80%", lg: "30%" },
-            }}
-            color="error"
-            variant="contained"
-            target="_blank"
-            onClick={handleModalShowHide}
-          >
-            BUY TOKEN
-          </Button> */}
           <ConnectModal open={open} handleModalShowHide={handleModalShowHide} />
         </Box>
       </Container>

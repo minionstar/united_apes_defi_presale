@@ -17,24 +17,6 @@ const NoBodyWins = ({}) => {
   return (
     <Box sx={{ width: "100%", position: "relative", mt: 15 }}>
       <Container fixed>
-        {/* <Box
-          item
-          xs={12}
-          sx={{
-            display: { xs: "flex" },
-            justifyContent: "center",
-          }}
-        >
-          <Image
-            data-aos="fade-bottom"
-            data-aos-delay={200}
-            data-aos-duration="500"
-            src="/images/diamond2.png"
-            alt="diamond-2"
-            width={345}
-            height={190}
-          />
-        </Box> */}
         <Box
           data-aos="zoom-in"
           data-aos-delay={200}
@@ -51,13 +33,13 @@ const NoBodyWins = ({}) => {
                 color: "#ffffff",
               }}
             >
-              United Buyback 🌎
+              United Buyback
             </Typography>
           </ThemeProvider>
           <Typography
             sx={{
               fontFamily: "Bangers",
-              color: "#FF0000",
+              color: "#ffffff",
               lineHeight: "45px",
               fontSize: { xs: "17px", md: "1.5rem" },
               mb: 3,
@@ -65,44 +47,43 @@ const NoBodyWins = ({}) => {
             }}
           >
             If the Jackpot reaches it's threshold at $100k and no one has won
-            50% of the Jackpot is split three ways: 🪓
+            50% of the Jackpot is split three ways:
           </Typography>
           <Typography
             sx={{
               fontFamily: "Bangers",
-              color: "#FF0000",
+              color: "#ffffff",
               lineHeight: "45px",
               fontSize: { xs: "17px", md: "1.5rem" },
               mb: 3,
               textAlign: "center",
             }}
           >
-            - 35% goes to buyback and burn $UAD token 🔥
+            - 35% goes to buyback and burn $UAD token
           </Typography>
           <Typography
             sx={{
               fontFamily: "Bangers",
-              color: "#FF0000",
+              color: "#ffffff",
               lineHeight: "45px",
               fontSize: { xs: "17px", md: "1.5rem" },
               mb: 3,
               textAlign: "center",
             }}
           >
-            - 35% is sent to LP receiver to add liquidity 🏛️
+            - 35% is sent to LP receiver to add liquidity
           </Typography>
           <Typography
             sx={{
               fontFamily: "Bangers",
-              color: "#FF0000",
+              color: "#ffffff",
               lineHeight: "45px",
               fontSize: { xs: "17px", md: "1.5rem" },
               mb: 3,
               textAlign: "center",
             }}
           >
-            - 30% goes to BUSD rewards distributed to all holders{" "}
-            <Image width={25} height={25} src={"/images/coin-emoji.png"} />
+            - 30% goes to BUSD rewards distributed to all holders
           </Typography>
           <Button
             data-aos="fade-up"

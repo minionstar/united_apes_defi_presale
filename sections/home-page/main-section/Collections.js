@@ -141,7 +141,7 @@ const Collections = () => {
                 data-aos-duration="500"
                 sx={{
                   fontFamily: "Bangers",
-                  color: "#FF0000",
+                  color: "#ffffff",
                   lineHeight: "30px",
                   fontSize: { xs: "17px", md: "20px" },
                 }}

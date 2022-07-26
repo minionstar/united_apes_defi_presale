@@ -51,7 +51,7 @@ const Lottery = () => {
                   component="div"
                   sx={{
                     fontFamily: "Bangers",
-                    color: "#FF0000",
+                    color: "#ffffff",
                     lineHeight: "45px",
                   }}
                 >
@@ -63,11 +63,12 @@ const Lottery = () => {
                   component="div"
                   sx={{
                     fontFamily: "Bangers",
-                    color: "#FF0000",
+                    color: "#ffffff",
                     lineHeight: "45px",
                   }}
                 >
-                  - NFT holders will have free lifetime entries into the lottery determined by the level of NFT they hold 🎟
+                  - NFT holders will have free lifetime entries into the lottery
+                  determined by the level of NFT they hold 🎟
                 </Typography>
                 <Typography
                   variant="h5"
@@ -75,7 +76,7 @@ const Lottery = () => {
                   component="div"
                   sx={{
                     fontFamily: "Bangers",
-                    color: "#FF0000",
+                    color: "#ffffff",
                     lineHeight: "45px",
                   }}
                 >
@@ -88,7 +89,7 @@ const Lottery = () => {
                   component="div"
                   sx={{
                     fontFamily: "Bangers",
-                    color: "#FF0000",
+                    color: "#ffffff",
                     lineHeight: "45px",
                   }}
                 >
@@ -176,13 +177,13 @@ const Lottery = () => {
               data-aos-duration="500"
               sx={{
                 fontFamily: "Bangers",
-                color: "#FF0000",
+                color: "#ffffff",
                 lineHeight: "45px",
                 textAlign: "center",
                 fontSize: "17px",
               }}
             >
-              - We will hold a lottery every 12 hours ⏰
+              - We will hold a lottery every 12 hours
             </Typography>
             <Typography
               data-aos="fade-up"
@@ -190,13 +191,14 @@ const Lottery = () => {
               data-aos-duration="500"
               sx={{
                 fontFamily: "Bangers",
-                color: "#FF0000",
+                color: "#ffffff",
                 lineHeight: "45px",
                 textAlign: "center",
                 fontSize: "17px",
               }}
             >
-              - NFT holders will have free lifetime entries into the lottery determined by the level of NFT they hold 🎟
+              - NFT holders will have free lifetime entries into the lottery
+              determined by the level of NFT they hold
             </Typography>
             <Typography
               data-aos="fade-up"
@@ -204,14 +206,13 @@ const Lottery = () => {
               data-aos-duration="500"
               sx={{
                 fontFamily: "Bangers",
-                color: "#FF0000",
+                color: "#ffffff",
                 lineHeight: "45px",
                 textAlign: "center",
                 fontSize: "17px",
               }}
             >
               - Non-NFT holders will have to pay a fee with $UAD to gain entries
-              💵
             </Typography>
             <Typography
               data-aos="fade-up"
@@ -219,13 +220,13 @@ const Lottery = () => {
               data-aos-duration="500"
               sx={{
                 fontFamily: "Bangers",
-                color: "#FF0000",
+                color: "#ffffff",
                 lineHeight: "45px",
                 textAlign: "center",
                 fontSize: "17px",
               }}
             >
-              - We will burn 10% of all winnings 🔥
+              - We will burn 10% of all winnings
             </Typography>
             <Button
               data-aos="fade-up"

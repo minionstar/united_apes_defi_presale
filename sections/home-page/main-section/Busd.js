@@ -72,11 +72,13 @@ const Busd = () => {
                   component="div"
                   sx={{
                     fontFamily: "Bangers",
-                    color: "#FF0000",
+                    color: "#ffffff",
                     lineHeight: "45px",
                   }}
                 >
-                  On every buy 2% is reflected back to all holders, on every sell 4% is reflected back to all holders in the form of the stable coin BUSD
+                  On every buy 2% is reflected back to all holders, on every
+                  sell 4% is reflected back to all holders in the form of the
+                  stable coin BUSD
                 </Typography>
                 <Button
                   sx={{
@@ -128,7 +130,11 @@ const Busd = () => {
                 data-aos="fade-up"
                 data-aos-delay={200}
                 data-aos-duration="500"
-                sx={{ fontFamily: "Bangers", color: "#ffffff", fontSize: "50px" }}
+                sx={{
+                  fontFamily: "Bangers",
+                  color: "#ffffff",
+                  fontSize: "50px",
+                }}
               >
                 BUSD reflections
               </Typography>
@@ -145,7 +151,7 @@ const Busd = () => {
             <Typography
               sx={{
                 fontFamily: "Bangers",
-                color: "#FF0000",
+                color: "#ffffff",
                 lineHeight: "45px",
                 textAlign: "center",
                 fontSize: "17px",
@@ -154,7 +160,9 @@ const Busd = () => {
               data-aos-delay={200}
               data-aos-duration="500"
             >
-              On every buy 2% is reflected back to all holders, on every sell 4% is reflected back to all holders in the form of the stable coin BUSD
+              On every buy 2% is reflected back to all holders, on every sell 4%
+              is reflected back to all holders in the form of the stable coin
+              BUSD
             </Typography>
             <Button
               data-aos="fade-up"
