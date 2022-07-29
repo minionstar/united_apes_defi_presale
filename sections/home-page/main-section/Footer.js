@@ -105,7 +105,7 @@ const Footer = () => {
             copyright © 2022 all rights reserved
           </Typography>
 
-          <Typography
+          {/* <Typography
             data-aos="fade-up"
             data-aos-delay={1400}
             data-aos-duration="500"
@@ -124,7 +124,7 @@ const Footer = () => {
             >
               Developed by LouisLee
             </a>
-          </Typography>
+          </Typography> */}
         </Box>
       </Container>
       <Box className="rose6">
