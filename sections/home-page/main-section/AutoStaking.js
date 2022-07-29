@@ -164,8 +164,8 @@ const AutoStaking = () => {
             layout="responsive"
             src="/images/rose-10.png"
             alt="rose-1"
-            width={419}
-            height={413}
+            width={300}
+            height={300}
           />
         </Box>
         <Box className="rose8">
