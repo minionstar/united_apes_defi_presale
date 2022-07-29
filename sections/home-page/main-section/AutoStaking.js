@@ -157,18 +157,18 @@ const AutoStaking = () => {
             </Button>
           </Stack>
         </Container>
-        <Box className="rose1">
+        <Box className="rose1" sx={{ maxWidth: "300px"}}>
           <Image
             data-aos="fade-left"
             data-aos-delay={200}
             layout="responsive"
             src="/images/rose-10.png"
             alt="rose-1"
-            width={300}
-            height={300}
+            width={10}
+            height={10}
           />
         </Box>
-        <Box className="rose8">
+        <Box className="rose8" sx={{ maxWidth: "300px"}}>
           <Image
             data-aos="fade-right"
             data-aos-delay={400}
