@@ -32,7 +32,7 @@ const NoBodyWins = ({}) => {
             src="/images/globe.png"
             alt="diamond-2"
             width={345}
-            height={190}
+            height={345}
           />
         </Box>
         <Box
