@@ -29,7 +29,7 @@ const NoBodyWins = ({}) => {
             data-aos="fade-bottom"
             data-aos-delay={200}
             data-aos-duration="500"
-            src="/images/globe.jpg"
+            src="/images/globe.png"
             alt="diamond-2"
             width={345}
             height={345}
