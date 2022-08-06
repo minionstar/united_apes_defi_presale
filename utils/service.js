@@ -18,7 +18,6 @@ export function onlyNumbers(text) {
   //   return parseFloat(v);
   // });
   // Set to HTML
-  console.log(text);
   // var inputResult = document.getElementById("buyAmount");
   // inputResult.value = Math.abs(text);
   return Math.abs(text);

@@ -16,7 +16,6 @@ import * as fbq from "../utils/fpixel";
 
 function getLibrary(provider) {
   const library = new Web3Provider(provider);
-  console.log(library);
   library.pollingInterval = 8000; // frequency provider is polling
   return library;
 }

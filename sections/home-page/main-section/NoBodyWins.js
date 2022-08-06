@@ -18,6 +18,24 @@ const NoBodyWins = ({}) => {
     <Box sx={{ width: "100%", position: "relative", mt: 15 }}>
       <Container fixed>
         <Box
+          item
+          xs={12}
+          sx={{
+            display: { xs: "flex" },
+            justifyContent: "center",
+          }}
+        >
+          <Image
+            data-aos="fade-bottom"
+            data-aos-delay={200}
+            data-aos-duration="500"
+            src="/images/globe.png"
+            alt="diamond-2"
+            width={345}
+            height={190}
+          />
+        </Box>
+        <Box
           data-aos="zoom-in"
           data-aos-delay={200}
           data-aos-duration="1000"
