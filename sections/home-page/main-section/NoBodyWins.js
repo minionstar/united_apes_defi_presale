@@ -39,7 +39,7 @@ const NoBodyWins = ({}) => {
           data-aos="zoom-in"
           data-aos-delay={200}
           data-aos-duration="1000"
-          sx={{ textAlign: "center", p: 2 }}
+          sx={{ textAlign: "center", p: 4 }}
         >
           <ThemeProvider theme={theme}>
             <Typography
