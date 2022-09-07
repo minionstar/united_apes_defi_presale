@@ -110,7 +110,7 @@ const NoBodyWins = ({}) => {
             sx={{
               color: "#ffffff",
               fontFamily: "Bangers",
-              backgroundColor: "#FF0000",
+              backgroundColor: "#0afa07",
               fontSize: { xs: "21px", md: "24px" },
               lineHeight: "25.54px",
               padding: "10px",

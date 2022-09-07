@@ -35,7 +35,7 @@ const CollectionsCards = ({ data }) => {
                 lineHeight: "30px",
                 fontFamily: "Bangers",
                 whiteSpace: "nowrap",
-                borderBottom: "2px solid #ff0000",
+                borderBottom: "2px solid #0afa07",
                 position: "absolute",
                 left: 0,
               }}
