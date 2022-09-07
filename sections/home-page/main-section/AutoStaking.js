@@ -72,7 +72,7 @@ const AutoStaking = () => {
                 sx={{
                   color: "#ffffff",
                   fontFamily: "Bangers",
-                  backgroundColor: "#FF0000",
+                  backgroundColor: "#0afa07",
                   fontSize: { xs: "15px", md: "24px" },
                   lineHeight: "25.54px",
                   width: { xs: "80%", sm: "80%", md: "80%", lg: "30%" },
@@ -142,7 +142,7 @@ const AutoStaking = () => {
               sx={{
                 color: "#ffffff",
                 fontFamily: "Bangers",
-                backgroundColor: "#FF0000",
+                backgroundColor: "#0afa07",
                 fontSize: "21px",
                 lineHeight: "25.54px",
                 padding: "10px",

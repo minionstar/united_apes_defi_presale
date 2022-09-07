@@ -24,7 +24,7 @@ export default class MyDocument extends Document {
         </Head>
         <body>
           <Main />
-          <div id="60360-4cxwrvbz" className="sw_container"><script type="text/javascript" src="https://sweepwidget.com/w/j/w_init.js" async></script></div>
+          {/* <div id="60360-4cxwrvbz" className="sw_container"><script type="text/javascript" src="https://sweepwidget.com/w/j/w_init.js" async></script></div> */}
           <NextScript />
         </body>
       </Html>

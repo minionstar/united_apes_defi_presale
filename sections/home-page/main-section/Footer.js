@@ -24,7 +24,7 @@ const Footer = () => {
             data-aos-duration="500"
             src="/images/logo.jpg"
             alt="logo"
-            width={144}
+            width={168}
             height={168}
           />
           <Typography

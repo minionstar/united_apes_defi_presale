@@ -312,3 +312,7 @@ a {
 .swal2-container{
   z-index: 10000 !important;
 }
+
+.main-color{
+  color : #0afa07;
+}
