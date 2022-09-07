@@ -63,7 +63,7 @@ const HeroSection = (props) => {
                 <Image
                   src="/images/hero-section-image.jpg"
                   alt="Logo"
-                  width={422}
+                  width={441}
                   height={441}
                   data-aos="zoom-in"
                   data-aos-delay={400}
