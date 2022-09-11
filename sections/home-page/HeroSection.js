@@ -63,8 +63,8 @@ const HeroSection = (props) => {
                 <Image
                   src="/images/hero-section-image.png"
                   alt="Logo"
-                  width={441}
-                  height={441}
+                  width={500}
+                  height={500}
                   data-aos="zoom-in"
                   data-aos-delay={400}
                 />
@@ -116,7 +116,7 @@ const HeroSection = (props) => {
             </Grid>
           </Box>
         </Container>
-        <Box className={"gorilla"}>
+        {/* <Box className={"gorilla"}>
           <Image
             layout="responsive"
             data-aos="fade-right"
@@ -126,7 +126,7 @@ const HeroSection = (props) => {
             width={315}
             height={437}
           />
-        </Box>
+        </Box> */}
       </Box>
     </>
   );
