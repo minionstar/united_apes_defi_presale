@@ -41,7 +41,7 @@ const HeroSection = (props) => {
     <>
       <Box
         sx={{
-          backgroundImage: "url('images/hero-section.png')",
+          backgroundImage: "url('images/hero-section.jpg')",
           minHeight: "100vh",
           width: "100%",
           backgroundSize: "cover",
@@ -61,7 +61,7 @@ const HeroSection = (props) => {
             <Grid container mt={2} spacing={1}>
               <Grid item xs={12} md={12}>
                 <Image
-                  src="/images/hero-section-image.jpg"
+                  src="/images/hero-section-image.png"
                   alt="Logo"
                   width={441}
                   height={441}
