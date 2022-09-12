@@ -14,8 +14,9 @@ const MainSection = () => {
         sx={{
           minHeight: "100%",
           width: "100%",
-          background:
-            "linear-gradient(0deg, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url('images/background.png')",
+          // background:
+          //   "linear-gradient(0deg, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url('images/background.png')",
+          backgroundColor: "#000000",
           position: "relative",
           overflow: "hidden",
         }}
