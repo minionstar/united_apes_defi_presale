@@ -64,8 +64,8 @@ const AutoStaking = () => {
                   textAlign: "left",
                 }}
               >
-                $UAD is a rebase token that rewards holders every 3 seconds with
-                a sustainable 191,021% APY. No need to connect the wallet to a
+                $TYCN is a rebase token that rewards holders every 3 seconds with
+                a sustainable 95,000% APY. No need to connect the wallet to a
                 dApp to receive rewards simply buy and hold.
               </Typography>
               <Button
@@ -131,8 +131,8 @@ const AutoStaking = () => {
                 fontSize: "17px",
               }}
             >
-              $UAD is a rebase token that rewards holders every 3 seconds with a
-              sustainable 191,021% APY. No need to connect the wallet to a dApp
+              $TYNC is a rebase token that rewards holders every 3 seconds with a
+              sustainable 95,000% APY. No need to connect the wallet to a dApp
               to receive rewards simply buy and hold.
             </Typography>
             <Button

@@ -107,7 +107,7 @@ const HeroSection = (props) => {
                         },
                       }}
                     >
-                      UAD is bringing the online gaming and casino industry to
+                      TYNC is bringing the online gaming and casino industry to
                       defi
                     </Typography>
                   </ThemeProvider>

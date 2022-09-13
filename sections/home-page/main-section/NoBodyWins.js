@@ -77,7 +77,7 @@ const NoBodyWins = ({}) => {
               textAlign: "center",
             }}
           >
-            - 35% goes to buyback and burn $UAD token
+            - 35% goes to buyback and burn $TYNC token
           </Typography>
           <Typography
             sx={{

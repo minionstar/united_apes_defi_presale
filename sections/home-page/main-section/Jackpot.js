@@ -61,7 +61,7 @@ const Jackpot = () => {
                 component="div"
                 sx={{ fontFamily: "Bangers", color: "#ffffff" }}
               >
-                - On every buy 4% tax is allocated to Jackpot.
+                - On every buy 3% tax is allocated to Jackpot.
               </Typography>
               <Typography
                 variant="h5"
@@ -69,7 +69,7 @@ const Jackpot = () => {
                 component="div"
                 sx={{ fontFamily: "Bangers", color: "#ffffff" }}
               >
-                - On every sell 6% is allocated to the Jackpot.
+                - On every sell 5% is allocated to the Jackpot.
               </Typography>
               <Typography
                 variant="h5"
@@ -158,7 +158,7 @@ const Jackpot = () => {
               lineHeight: "30px",
             }}
           >
-            - On every buy 4% tax is allocated to Jackpot.
+            - On every buy 3% tax is allocated to Jackpot.
           </Typography>
           <Typography
             data-aos="fade-up"
@@ -172,7 +172,7 @@ const Jackpot = () => {
               lineHeight: "30px",
             }}
           >
-            - On every sell 6% is allocated to the Jackpot.
+            - On every sell 5% is allocated to the Jackpot.
           </Typography>
           <Typography
             data-aos="fade-up"

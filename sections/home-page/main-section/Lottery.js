@@ -80,7 +80,7 @@ const Lottery = () => {
                     lineHeight: "45px",
                   }}
                 >
-                  - Non-NFT holders will have to pay a fee with $UAD to gain
+                  - Non-NFT holders will have to pay a fee with $TYNC to gain
                   entries 💵
                 </Typography>
                 <Typography
@@ -212,7 +212,7 @@ const Lottery = () => {
                 fontSize: "17px",
               }}
             >
-              - Non-NFT holders will have to pay a fee with $UAD to gain entries
+              - Non-NFT holders will have to pay a fee with $TYNC to gain entries
             </Typography>
             <Typography
               data-aos="fade-up"
