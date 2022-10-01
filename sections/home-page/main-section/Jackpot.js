@@ -25,13 +25,13 @@ const Jackpot = () => {
             sx={{ display: "flex", alignItems: "center" }}
             item
             xs={12}
-            md={6}
+            md={12}
           >
             <Stack
               data-aos="fade-right"
               data-aos-delay={200}
               data-aos-duration="1000"
-              sx={{ alignItems: { xs: "center", md: "flex-start" } }}
+              sx={{ alignItems: { xs: "center", md: "flex-center" }, width:"100%"}}
               spacing={4}
             >
               <ThemeProvider theme={theme}>
@@ -41,7 +41,7 @@ const Jackpot = () => {
                   component="div"
                   sx={{
                     fontFamily: "Bangers",
-                    color: "#ffffff",
+                    color: "#FF0000",
                   }}
                 >
                   The Jackpot
@@ -92,7 +92,7 @@ const Jackpot = () => {
               </Typography>
             </Stack>
           </Grid>
-          <Grid item xs={12} md={6}>
+          {/* <Grid item xs={12} md={6}>
             <Image
               data-aos="fade-left"
               data-aos-delay={200}
@@ -102,7 +102,7 @@ const Jackpot = () => {
               width={715}
               height={715}
             />
-          </Grid>
+          </Grid> */}
         </Grid>
       </Container>
       {/* web end */}
@@ -118,12 +118,12 @@ const Jackpot = () => {
               data-aos="fade-up"
               data-aos-delay={200}
               data-aos-duration="500"
-              sx={{ fontFamily: "Bangers", color: "#ffffff", fontSize: "50px" }}
+              sx={{ fontFamily: "Bangers", color: "#FF0000", fontSize: "50px" }}
             >
               The Jackpot
             </Typography>
           </ThemeProvider>
-          <Image
+          {/* <Image
             data-aos="fade-up"
             data-aos-delay={200}
             data-aos-duration="500"
@@ -131,14 +131,14 @@ const Jackpot = () => {
             alt="Jackpot"
             width={715}
             height={715}
-          />
+          /> */}
           <Typography
             data-aos="fade-up"
             data-aos-delay={200}
             data-aos-duration="500"
             sx={{
               fontFamily: "Bangers",
-              color: "#ffffff",
+              color: "#FF0000",
               textAlign: "center",
               fontSize: "17px",
               lineHeight: "30px",

@@ -48,7 +48,7 @@ const NoBodyWins = ({}) => {
               component="div"
               sx={{
                 fontFamily: "Bangers",
-                color: "#ffffff",
+                color: "#FF0000 ",
               }}
             >
               United Buyback
@@ -110,7 +110,7 @@ const NoBodyWins = ({}) => {
             sx={{
               color: "#ffffff",
               fontFamily: "Bangers",
-              backgroundColor: "#0afa07",
+              backgroundColor: "#FF0000",
               fontSize: { xs: "21px", md: "24px" },
               lineHeight: "25.54px",
               padding: "10px",

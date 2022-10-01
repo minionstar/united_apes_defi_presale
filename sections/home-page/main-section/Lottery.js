@@ -40,7 +40,7 @@ const Lottery = () => {
                     variant="h3"
                     gutterBottom
                     component="div"
-                    sx={{ fontFamily: "Bangers", color: "#ffffff" }}
+                    sx={{ fontFamily: "Bangers", color: "#FF0000" }}
                   >
                     The Lottery
                   </Typography>
@@ -99,7 +99,7 @@ const Lottery = () => {
                   sx={{
                     color: "#ffffff",
                     fontFamily: "Bangers",
-                    backgroundColor: "#0afa07",
+                    backgroundColor: "#FF0000",
                     fontSize: { xs: "15px", md: "24px" },
                     lineHeight: "25.54px",
                     width: { xs: "80%", sm: "80%", md: "80%", lg: "30%" },
@@ -155,7 +155,7 @@ const Lottery = () => {
                 data-aos-duration="500"
                 sx={{
                   fontFamily: "Bangers",
-                  color: "#ffffff",
+                  color: "#FF0000",
                   fontSize: "50px",
                 }}
               >
@@ -235,7 +235,7 @@ const Lottery = () => {
               sx={{
                 color: "#ffffff",
                 fontFamily: "Bangers",
-                backgroundColor: "#0afa07",
+                backgroundColor: "#FF0000",
                 fontSize: "21px",
                 lineHeight: "25.54px",
                 padding: "10px",

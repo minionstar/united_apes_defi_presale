@@ -12,7 +12,7 @@ export const ConnectModal = (props) => {
       <Button
         sx={{
           fontFamily: "Bangers",
-          backgroundColor: "#0afa07",
+          backgroundColor: "#FF0000",
           fontSize: { xs: "15px", md: "24px" },
           lineHeight: "25.54px",
           width: { xs: "80%", sm: "80%", md: "80%", lg: "30%" },
