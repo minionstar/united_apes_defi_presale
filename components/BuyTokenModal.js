@@ -151,7 +151,7 @@ function BuyTokenModal(props) {
               variant="h3"
               gutterBottom
               component="div"
-              sx={{ fontFamily: "Bangers", color: "#0afa07" }}
+              sx={{ fontFamily: "Bangers", color: "#FF0000" }}
             >
               Buy Token
             </Typography>
@@ -159,7 +159,7 @@ function BuyTokenModal(props) {
               variant="h3"
               gutterBottom
               component="div"
-              sx={{ fontFamily: "Bangers", color: "#0afa07" }}
+              sx={{ fontFamily: "Bangers", color: "#FF0000" }}
               onClick={() => {
                 setIsApproveDone(false);
                 props.handleModalShowHide(false);
@@ -196,7 +196,7 @@ function BuyTokenModal(props) {
                   sx={{
                     color: "#ffffff",
                     fontFamily: "Bangers",
-                    backgroundColor: "#0afa07",
+                    backgroundColor: "#FF0000",
                     fontSize: { xs: "15px", md: "24px" },
                     lineHeight: "25.54px",
                     width: { xs: "80%", sm: "80%", md: "80%", lg: "30%" },
@@ -219,7 +219,7 @@ function BuyTokenModal(props) {
                   sx={{
                     color: "#ffffff",
                     fontFamily: "Bangers",
-                    backgroundColor: "#0afa07",
+                    backgroundColor: "#FF0000",
                     fontSize: { xs: "15px", md: "24px" },
                     lineHeight: "25.54px",
                     width: { xs: "80%", sm: "80%", md: "80%", lg: "30%" },
@@ -236,7 +236,7 @@ function BuyTokenModal(props) {
                 sx={{
                   color: "#ffffff",
                   fontFamily: "Bangers",
-                  backgroundColor: "#0afa07",
+                  backgroundColor: "#FF0000",
                   fontSize: { xs: "15px", md: "24px" },
                   lineHeight: "25.54px",
                   width: { xs: "80%", sm: "80%", md: "80%", lg: "30%" },
