@@ -126,9 +126,9 @@ const Header = ({}) => {
               aria-controls="menu-appbar"
               aria-haspopup="true"
               onClick={toggleDrawer("right", true)}
-              sx={{ color: "#FF0000", width: "100%" }}
+              sx={{ color: "#FFFFFF", width: "100%" }}
             >
-              <MenuIcon sx={{ fontSize: 60 }} />
+              <MenuIcon sx={{ fontSize: 45 }} />
             </IconButton>
             <React.Fragment>
               <Drawer
